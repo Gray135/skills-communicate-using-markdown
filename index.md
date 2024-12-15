@@ -7,10 +7,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
-``` javascript
-var myVar = "Hello, world!";
-
--[ ] Do exercies
--[ ] Retain Knowledge
--[ ] Try to be better than yesterday 
+- [ ] Do exercies
+- [ ] Retain Knowledge
+- [ ] Try to be better than yesterday 
 
